@@ -76,6 +76,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_37eb003b2bd24ee889d06b5af652ca22: 0.2
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -103,15 +104,21 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
+    - _borderWidth: 0.05
+    - _foilAmount: 100
+    - _foilDiscard: 0.96
+    - _foilRand: 43.34
     - _foilSize: 2.8
+    - _orderBottomRound: 0.3
     m_Colors:
     - Vector2_f866aad136024b178d709b1a35dde7ad: {r: 2, g: 3, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _backCOlor: {r: 0.187033, g: 0.347, b: 0.20836191, a: 1}
     - _foilDir: {r: 1, g: 0.31, b: 0, a: 0}
-    - _outBorder: {r: 0.213, g: 0.153999, b: 0.1896364, a: 0}
+    - _outBorder: {r: 0.18431373, g: 0.054901954, b: 0.17213929, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &5532181061654368680
 MonoBehaviour:
