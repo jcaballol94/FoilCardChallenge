@@ -1249,10 +1249,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1542.5,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
+            "x": 1603.0,
+            "y": -290.99993896484377,
+            "width": 120.0,
+            "height": 77.0
         }
     },
     "m_Slots": [
@@ -1702,10 +1702,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1238.5,
-            "y": -358.50006103515627,
+            "x": 1251.0,
+            "y": -335.0,
             "width": 208.0,
-            "height": 301.9999694824219
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -1927,25 +1927,25 @@
             "r": 0.0,
             "g": 0.0,
             "b": 0.0,
-            "a": 1.0
+            "a": 0.0
         },
         "key1": {
             "r": 0.0,
             "g": 0.0,
             "b": 0.0,
-            "a": 1.0
+            "a": 0.0
         },
         "key2": {
             "r": 0.3399999737739563,
             "g": 0.3554929494857788,
             "b": 1.0,
-            "a": 0.0
+            "a": 1.0
         },
         "key3": {
             "r": 0.37599998712539675,
             "g": 1.0,
             "b": 0.38199999928474429,
-            "a": 0.0
+            "a": 1.0
         },
         "key4": {
             "r": 1.0,
@@ -1980,16 +1980,16 @@
         "ctime6": 65535,
         "ctime7": 0,
         "atime0": 0,
-        "atime1": 65535,
-        "atime2": 0,
-        "atime3": 0,
-        "atime4": 0,
-        "atime5": 0,
+        "atime1": 16191,
+        "atime2": 22937,
+        "atime3": 40285,
+        "atime4": 48573,
+        "atime5": 65535,
         "atime6": 0,
         "atime7": 0,
         "m_Mode": 0,
         "m_NumColorKeys": 7,
-        "m_NumAlphaKeys": 2
+        "m_NumAlphaKeys": 6
     },
     "m_DefaultValue": {
         "serializedVersion": "2",

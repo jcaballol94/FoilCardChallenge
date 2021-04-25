@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Card
-  m_Shader: {fileID: -6465566751694194690, guid: ec2e5fe613e364a409595664d0fd7135, type: 3}
+  m_Name: CardShapeTest
+  m_Shader: {fileID: -6465566751694194690, guid: f0a8628190a7fee42af62a35f76aeb71, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -95,7 +95,6 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Rounding: 0.1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -103,17 +102,15 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _foilSize: 2.8
+    - _rounding: 0.1
     m_Colors:
-    - Vector2_f866aad136024b178d709b1a35dde7ad: {r: 2, g: 3, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _foilDir: {r: 1, g: 0.31, b: 0, a: 0}
-    - _outBorder: {r: 0.213, g: 0.153999, b: 0.1896364, a: 0}
+    - _size: {r: 2, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &5532181061654368680
+--- !u!114 &2897603040262072145
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
